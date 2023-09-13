@@ -15,3 +15,6 @@
 ![codeimage-snippet_13 (2)](https://github.com/kaniz-codes/Video-To-GIF-Python/assets/138873297/8c198f68-e6a3-4630-aa49-77d67a539c45)
 - 𝐯𝐢𝐝𝐞𝐨.𝐰𝐫𝐢𝐭𝐞_𝐠𝐢𝐟("𝐭𝐞𝐬𝐭.𝐠𝐢𝐟") converts the extracted video segment (subclip) into a GIF file named "test.gif." The .write_gif() method is used to create the GIF.
 
+
+🐍 𝐅𝐢𝐧𝐚𝐥 𝐂𝐨𝐝𝐞:
+![codeimage-snippet_13 (3)](https://github.com/kaniz-codes/Video-To-GIF-Python/assets/138873297/11fefdd1-8a75-4571-a230-2fc22432d9b3)
