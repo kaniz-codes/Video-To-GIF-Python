@@ -20,5 +20,4 @@
 
 
 🐍 𝐅𝐢𝐧𝐚𝐥 𝐂𝐨𝐝𝐞:
-
 ![codeimage-snippet_13 (3)](https://github.com/kaniz-codes/Video-To-GIF-Python/assets/138873297/11fefdd1-8a75-4571-a230-2fc22432d9b3)
